@@ -1,4 +1,4 @@
-# AddingRLToAnNN
+# Adding Reinforcement Learning (RL) To A Neural Network
 
 This is a tutorial on how to add **Reinforcement Learning** to a **Neural Network**. Specifically, we implement a method called **Policy Gradients**.
 
